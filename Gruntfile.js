@@ -11,7 +11,7 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     meta: {
       project: 'bootstrap-timepicker',
-      version: '0.2.3'
+      version: '0.2.6'
     },
     jasmine: {
       build: {
